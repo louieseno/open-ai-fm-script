@@ -1,0 +1,20 @@
+{
+  "name": "open-ai-voice-script",
+  "version": "1.0.0",
+  "description": "voice",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "louie",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/minimist": "^1.2.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "openai": "^5.16.0"
+  }
+}
